@@ -1,0 +1,178 @@
+body {
+	margin: 0px;		
+	margin-left: 120px;
+	font-family: Indie Flower, cursive;
+	font-size: 16px;  
+}
+
+#container {
+	width: 968px;
+	margin: 0px auto;
+	background-color:#f2f2f2;
+}
+
+h1 {
+
+	text-align: center;
+	font-size: 200%;   
+	position: relative;
+	top: 50%;
+	-webkit-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	transform: translateY(-50%);
+}
+
+#header {
+	background-color: #a6a6a6; 
+	color:  #404040;
+	height: 70px;		
+	margin: 0px;			
+	width: 100%;			    
+}
+
+.sidebar {
+	background: #ccffcc;  
+	color:#4A774A;	 
+	width: 300px;
+	float: left;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: auto;
+	padding-left: 10px;
+	clear: left; 
+	font-size: 110%;
+}
+
+.image-circle {
+	border-radius: 50%;
+	background-color: #d48c07;
+	max-width: 100%;
+	max-height: 100%;
+	margin-left: auto;		
+	margin-right: auto;		
+	margin-top: -15px;
+	display: block;			
+	width: 245px;  
+	float: left;			
+	border-style: solid;
+	border-width: 11px;
+	border-color: #cc0000;
+}
+
+h3 {
+	font-size: 170%;
+}
+
+h3.green {
+	background-color: #b5e3b5;     
+}
+
+#rating_wrapper { 
+	  display: inline-block; 
+	  overflow: hidden; 
+	  position: relative; 
+}
+
+.glyphicon.glyphicon-star, 
+.glyphicon.glyphicon-star-empty {
+	  color: #4A774A;
+	  font-size: 2em;
+}
+
+.glyphicon.glyphicon-star-empty {
+	opacity: .5;
+}
+
+p.green {
+	padding-left: 0px;  
+}
+
+.main {					
+	padding-top: 5px;			
+	padding-left: 340px;
+	text-align: left;
+	width: 905px;
+	margin-bottom: 0px;
+}
+
+h2.uppercase {
+	text-transform: uppercase;
+	background-color: #d9d9d9;  
+	padding-left: 5px;
+	width: 555px;
+}
+
+h2.grey {
+	background-color: #d9d9d9;
+	padding-left: 5px;
+	width: 555px;
+}
+p.grey {
+	padding: 0px;
+}
+
+ul li {
+list-style-type: square;
+font-size: 120%;
+}
+
+.glyphicon-ok {
+font-size: 110%;						
+color: #333333;     
+}
+
+.footer {
+	background-color: #a6a6a6;
+	color: #262626;
+	margin-top: 0px;  
+	padding-left: 10px;  
+	clear: both;
+}
+
+h2 {
+	text-align: left;
+	font-size: 180%;				
+	padding-left: 15px;
+	padding-top: 10px;
+}
+
+p {
+	padding: 15px;
+	font-size: 120%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
